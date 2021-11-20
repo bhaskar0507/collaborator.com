@@ -1,6 +1,7 @@
 import React from 'react';
 import "./details.css";
 
+
 function DetailPage() {
     return (
         <div className="parent_div_bh">
